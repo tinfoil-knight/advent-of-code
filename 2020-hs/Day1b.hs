@@ -1,4 +1,4 @@
-module Day1 where
+module Day1b where
 
 import Data.Array (Array, listArray, (!))
 import Data.List (sort)
